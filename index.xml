@@ -16,5 +16,14 @@
       <description>&lt;p&gt;&lt;a href=&#34;./book/aldington&#34;&gt;Ричард Олдингтон &amp;ldquo;Жизнь Веллингтона. Герцог&amp;rdquo;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>Карта мира</title>
+      <link>/map/map.html</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/map/map.html</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

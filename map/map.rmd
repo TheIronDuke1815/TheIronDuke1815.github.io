@@ -1,0 +1,13 @@
+---
+title: "Карта мира"
+author: ''
+date: '2021-01-01'
+slug: map
+tags:
+draft: no
+runtime: shiny
+output:
+  blogdown::html_page:
+    toc: false
+---
+<iframe height="800" width="100%" frameborder="no" src="https://valhen.shinyapps.io/Test/"> </iframe>
