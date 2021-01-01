@@ -5,6 +5,16 @@
     <link>/</link>
     <description>Recent content on Wellington: The Iron Duke</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Библиотека</title>
+      <link>/book/library.html</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/book/library.html</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;./book/aldington&#34;&gt;Ричард Олдингтон &amp;ldquo;Жизнь Веллингтона. Герцог&amp;rdquo;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>
