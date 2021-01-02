@@ -101,5 +101,6 @@
 }
 
 .book .book-body .page-wrapper .page-inner section.normal ol{
-  list-style-position: outside;
+  list-style-position: 	outside;
+  font-size: 75%
 }
