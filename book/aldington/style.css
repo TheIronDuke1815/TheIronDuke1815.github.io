@@ -25,7 +25,7 @@
 }
 
 .book .book-body .page-wrapper .page-inner section.normal div.footnotes{
-  font-size: 75%;
+  font-size: 85%;
   line-height: 1em;
   text-align: justify;
 }
@@ -102,5 +102,5 @@
 
 .book .book-body .page-wrapper .page-inner section.normal ol{
   list-style-position: 	outside;
-  font-size: 75%
+  font-size: 85%
 }
