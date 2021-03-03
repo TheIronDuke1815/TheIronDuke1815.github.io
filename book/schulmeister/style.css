@@ -1,0 +1,112 @@
+.book .book-body .page-wrapper .page-inner section.normal h1{
+  text-align: center;
+  font-family: 'Times New Roman';
+  font-size: 150%;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal h2{
+  text-align: center;
+  font-family: 'Times New Roman';
+  font-size: 110%;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal h1.title{
+  font-size: 200%;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal em{
+  font-style: normal;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal p{
+  font-family: 'Times New Roman';
+  text-indent: 1.5em;
+  text-align: justify;
+  line-height: 1.3em;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal p.author{
+  text-align: center;
+  font-size: 120%;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal div.footnotes{
+  font-size: 85%;
+  line-height: 1em;
+  text-align: justify;
+}
+
+.book .book-body .page-wrapper .page-inner section{
+  padding-top: 4px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: #FAF5EF;
+}
+
+.book .book-body .page-wrapper{
+  background-color: #FAF5EF;
+}
+
+.book .book-summary ul.summary {
+  border-right: 1px solid black;
+  background-color: white;
+}
+
+.book .book-summary ul.summary li a{
+  font-size: 120%;
+  color: #000000;
+  font-family: 'Times New Roman';
+  border-bottom: 1px solid black;
+}
+
+.book .book-summary ul.summary li a:hover{
+  color: #B22727;
+}
+
+.book .book-summary ul.summary li.active > a{
+  color: #B22727;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal blockquote{
+  color: #323232;
+  border-left: 4px solid #767676;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal hr {
+  background-color: #989898;
+}
+
+.book .book-header {
+  color: #000000;
+  text-align: center;
+  font-family: 'Times New Roman';
+  font-size: 150%;
+}
+
+.book .book-header.fixed {
+  background-color: #F2E0CF;
+  border-bottom: 1px solid black;
+}
+
+.fa {
+  color: #000000;
+}
+
+.fa:hover{
+  color: #B22727;
+}
+
+.dropdown-menu .buttons .button {
+  color: #000000;
+  background-color: white;
+  border: 1px solid black;
+}
+
+.dropdown-menu .buttons .button:hover {
+  color: #B22727;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal ol{
+  list-style-position: 	outside;
+  font-size: 85%
+}
