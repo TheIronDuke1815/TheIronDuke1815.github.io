@@ -104,3 +104,7 @@
   list-style-position: 	outside;
   font-size: 85%
 }
+
+.book .book-body .body-inner{
+  background-color: #FAF5EF;
+}
