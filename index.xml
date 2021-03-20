@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wellington: The Iron Duke</title>
-    <link>https://theironduke1815.github.io/post/</link>
+    <link>https://theironduke1815.github.io/</link>
     <description>Recent content on Wellington: The Iron Duke</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://theironduke1815.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://theironduke1815.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Битва при Бусаку</title>
-      <link>https://theironduke1815.github.io/post/article/peninsular/battle_busaco/</link>
+      <link>https://theironduke1815.github.io/article/peninsular/battle_busaco/</link>
       <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://theironduke1815.github.io/post/article/peninsular/battle_busaco/</guid>
+      <guid>https://theironduke1815.github.io/article/peninsular/battle_busaco/</guid>
       <description>Кампания: Полуостровная война.
 Дата сражения: 27 сентября 1810 года.
 Место сражения: Буссако, Центральная Португалия.
@@ -29,21 +29,21 @@
     
     <item>
       <title>Линкор Montañés против французской эскадры</title>
-      <link>https://theironduke1815.github.io/post/article/fleet/montanes_vs_french/</link>
+      <link>https://theironduke1815.github.io/article/fleet/montanes_vs_french/</link>
       <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://theironduke1815.github.io/post/article/fleet/montanes_vs_french/</guid>
+      <guid>https://theironduke1815.github.io/article/fleet/montanes_vs_french/</guid>
       <description>Статья Todo a babor, автор Juan García
 В марте 1795 года 74-пушечный линкор Montañés входил в состав Океанической эскадры Королевской Армады генерал-лейтенанта Хуана де Лангары, в то время находящейся в Средиземном море. Montañés совсем недавно был спущен на воду, и его экипаж стремился приступить к своим первым операциям. Им командовал капитан корабля (capitán de navío) Хосе Хордан-и-Мальтес, который 17 марта принял участие в захвате французского 32-пушечного фрегата Ifigenia (26 12-фунтовых орудий и 6 6-фунтовых).</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://theironduke1815.github.io/post/book/library/</link>
+      <link>https://theironduke1815.github.io/book/library/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://theironduke1815.github.io/post/book/library/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://theironduke1815.github.io/post/book/aldington&#34;&gt;Ричард Олдингтон &amp;ldquo;Жизнь Веллингтона. Герцог&amp;rdquo;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://theironduke1815.github.io/book/library/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://theironduke1815.github.io/book/aldington&#34;&gt;Ричард Олдингтон &amp;ldquo;Жизнь Веллингтона. Герцог&amp;rdquo;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
