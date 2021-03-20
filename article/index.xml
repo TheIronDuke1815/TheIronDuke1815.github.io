@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Wellington: The Iron Duke</title>
-    <link>https://theironduke1815.github.io/article/</link>
+    <link>https://theironduke1815.github.io/post/article/</link>
     <description>Recent content in Articles on Wellington: The Iron Duke</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://theironduke1815.github.io/article/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://theironduke1815.github.io/post/article/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Битва при Бусаку</title>
-      <link>https://theironduke1815.github.io/article/peninsular/battle_busaco/</link>
+      <link>https://theironduke1815.github.io/post/article/peninsular/battle_busaco/</link>
       <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://theironduke1815.github.io/article/peninsular/battle_busaco/</guid>
+      <guid>https://theironduke1815.github.io/post/article/peninsular/battle_busaco/</guid>
       <description>Кампания: Полуостровная война.
 Дата сражения: 27 сентября 1810 года.
 Место сражения: Буссако, Центральная Португалия.
@@ -29,41 +29,12 @@
     
     <item>
       <title>Линкор Montañés против французской эскадры</title>
-      <link>https://theironduke1815.github.io/article/fleet/montanes_vs_french/</link>
+      <link>https://theironduke1815.github.io/post/article/fleet/montanes_vs_french/</link>
       <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://theironduke1815.github.io/article/fleet/montanes_vs_french/</guid>
+      <guid>https://theironduke1815.github.io/post/article/fleet/montanes_vs_french/</guid>
       <description>Статья Todo a babor, автор Juan García
 В марте 1795 года 74-пушечный линкор Montañés входил в состав Океанической эскадры Королевской Армады генерал-лейтенанта Хуана де Лангары, в то время находящейся в Средиземном море. Montañés совсем недавно был спущен на воду, и его экипаж стремился приступить к своим первым операциям. Им командовал капитан корабля (capitán de navío) Хосе Хордан-и-Мальтес, который 17 марта принял участие в захвате французского 32-пушечного фрегата Ifigenia (26 12-фунтовых орудий и 6 6-фунтовых).</description>
-    </item>
-    
-    <item>
-      <title>Библиотека</title>
-      <link>https://theironduke1815.github.io/article/library/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://theironduke1815.github.io/article/library/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://theironduke1815.github.io/book/aldington&#34;&gt;Ричард Олдингтон &amp;ldquo;Жизнь Веллингтона. Герцог&amp;rdquo;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Линейный корабль &#34;Príncipe de Asturias&#34;</title>
-      <link>https://theironduke1815.github.io/article/talavera/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://theironduke1815.github.io/article/talavera/</guid>
-      <description>&lt;p&gt;«Príncipe de Asturias» — 112-пушечный трехпалубный линейный корабль Королевской Армады Испании (1794-1817). Серия «Santa Ana».&lt;/p&gt;
-&lt;h1 id=&#34;характеристики-корабля-1805-год&#34;&gt;Характеристики корабля (1805 год)&lt;/h1&gt;</description>
-    </item>
-    
-    <item>
-      <title>Линейный корабль Principe de Asturias</title>
-      <link>https://theironduke1815.github.io/article/principedeasturias/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://theironduke1815.github.io/article/principedeasturias/</guid>
-      <description>«Príncipe de Asturias» — 112-пушечный трехпалубный линейный корабль Королевской Армады Испании (1794-1817). Серия «Santa Ana».
-Table 1: Характеристики на 1805 годПараметрМетрыАнглийские футыИспанские футы (en pie de Burgos)Длина киля51.37168’184’Ширина16.1853’58’Длина по гондеку58.</description>
     </item>
     
   </channel>
