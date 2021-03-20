@@ -4,9 +4,6 @@ author: ''
 encoding: 'utf-8'   
 date: '2021-01-01'
 tags:
-output: html_document
-head-includes:
-  - \captionsetup{labelformat=empty}
 draft: no
 ---
 «Príncipe de Asturias» — 112-пушечный трехпалубный линейный корабль Королевской Армады Испании (1794-1817). Серия «Santa Ana».
