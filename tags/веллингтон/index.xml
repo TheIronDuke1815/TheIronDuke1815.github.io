@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Articles on Wellington: The Iron Duke</title>
-    <link>https://theironduke1815.github.io/article/</link>
-    <description>Recent content in Articles on Wellington: The Iron Duke</description>
+    <title>Веллингтон on Wellington: The Iron Duke</title>
+    <link>https://theironduke1815.github.io/tags/%D0%B2%D0%B5%D0%BB%D0%BB%D0%B8%D0%BD%D0%B3%D1%82%D0%BE%D0%BD/</link>
+    <description>Recent content in Веллингтон on Wellington: The Iron Duke</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://theironduke1815.github.io/article/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://theironduke1815.github.io/tags/%D0%B2%D0%B5%D0%BB%D0%BB%D0%B8%D0%BD%D0%B3%D1%82%D0%BE%D0%BD/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Битва при Бусаку</title>
       <link>https://theironduke1815.github.io/article/peninsular/</link>
@@ -25,16 +25,6 @@
 Составы воюющих сторонГлавнокомандующий союзной армии: генерал-лейтенант виконт Веллингтон.
 Командующий португальскими войсками: маршал Португалии Бересфорд.
 Главнокомандующий французской армии: маршал Андре Массена.</description>
-    </item>
-    
-    <item>
-      <title>Линкор Montañés против французской эскадры</title>
-      <link>https://theironduke1815.github.io/article/fleet/</link>
-      <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://theironduke1815.github.io/article/fleet/</guid>
-      <description>Статья Todo a babor, автор Juan García
-В марте 1795 года 74-пушечный линкор Montañés входил в состав Океанической эскадры Королевской Армады генерал-лейтенанта Хуана де Лангары, в то время находящейся в Средиземном море. Montañés совсем недавно был спущен на воду, и его экипаж стремился приступить к своим первым операциям. Им командовал капитан корабля (capitán de navío) Хосе Хордан-и-Мальтес, который 17 марта принял участие в захвате французского 32-пушечного фрегата Ifigenia (26 12-фунтовых орудий и 6 6-фунтовых).</description>
     </item>
     
   </channel>
