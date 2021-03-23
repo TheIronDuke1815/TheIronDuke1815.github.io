@@ -1,0 +1,8 @@
+---
+title: "Virtutis Fortuna Comes"
+date: '2021-01-01'
+output: blogdown::html_page
+draft: no
+readmore: false
+---
+![](/post/welstart.jpg)
