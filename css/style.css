@@ -1060,8 +1060,8 @@ input {
 	padding: 5px;
 	font-size: 12px;
 	vertical-align: middle;
-	background: #f5f5f5;
-	border: 1px solid #ebebeb;
+/*	background: #f5f5f5; */
+/*	border: 1px solid #ebebeb; */
 	transition: all .25s ease-in-out;
 }
 
@@ -1069,7 +1069,8 @@ input[type=text],
 input[type=email],
 input[type=tel],
 input[type=url] {
-	width: 60%;
+	width: 70%;
+	min-height: 39px;
 }
 
 input[type=text]:hover,
@@ -1083,7 +1084,7 @@ textarea:hover {
 input[type=submit],
 input[type=reset] {
 	display: inline-block;
-	min-width: 150px;
+	min-width: 90px;
 	padding: 10px 15px;
 	font-weight: 700;
 	color: #fff;
@@ -1375,4 +1376,8 @@ textarea {
 		font-size: 11px;
 		font-size: .6875rem;
 	}
+}
+
+.widget-hu-search__form {
+	
 }
