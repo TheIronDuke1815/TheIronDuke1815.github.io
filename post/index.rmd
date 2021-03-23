@@ -1,7 +1,0 @@
----
-title: "Добро пожаловать"
-date: '2021-01-01'
-output: blogdown::html_page
-draft: no
----
-![](/post/welstart.jpg)
