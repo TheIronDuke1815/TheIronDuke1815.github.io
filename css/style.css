@@ -1080,7 +1080,7 @@ input[type=text],
 input[type=email],
 input[type=tel],
 input[type=url] {
-	width: 70%;
+	width: 50%;
 	min-height: 39px;
 }
 
