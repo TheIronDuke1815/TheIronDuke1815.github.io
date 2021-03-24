@@ -1,7 +1,5 @@
 ---
 title: "Search Results"
 layout: "search"
-output: blogdown::html_page
-draft: no
 date: '2040-09-30'
 ---
