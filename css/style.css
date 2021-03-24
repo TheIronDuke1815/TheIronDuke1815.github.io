@@ -402,6 +402,7 @@ select {
 
 .logo__text {
 	text-transform: uppercase;
+	text-align: center;
 }
 
 .logo--mixed .logo__item {
@@ -1094,7 +1095,7 @@ textarea:hover {
 input[type=submit],
 input[type=reset] {
 	display: inline-block;
-	min-width: 90px;
+	min-width: 25%;
 	padding: 10px 15px;
 	font-weight: 700;
 	color: #fff;
